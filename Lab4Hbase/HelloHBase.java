@@ -5,6 +5,8 @@ import org.apache.hadoop.hbase.util.Bytes;
 import java.io.IOException;
 
 
+
+// 
 public class HelloHBase {
 
     private Table table1;
